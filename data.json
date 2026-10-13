@@ -85,6 +85,8 @@
     { "id": "rec-20261013-bonbu-lws", "date": "2026-10-13", "branch": "본부", "position": "조직부장", "requester": "이우성", "substitute": "이경재", "workDetails": "화성건기 대표미팅", "companion": "", "note": "" },
     { "id": "rec-20261013-bonjo-mmg", "date": "2026-10-13", "branch": "본조", "position": "부본부장", "requester": "문민곤", "substitute": "성경민", "workDetails": "전태일 열사 필사행사외 ,사무회의, 사무업무", "companion": "집회명단 참석명단 참조", "note": "" },
     { "id": "rec-20261013-bonbu-pss", "date": "2026-10-13", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "화성", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" },
+    { "id": "rec-20261014-bonbu-jyk", "date": "2026-10-14", "branch": "본부", "position": "조직차장", "requester": "정윤기", "substitute": "도형래", "workDetails": "속초 방문", "companion": "박승환조직부장, 홍대훈 조직차장", "note": "" },
+    { "id": "rec-20261014-bonbu-hdh", "date": "2026-10-14", "branch": "본부", "position": "조직차장", "requester": "홍대훈", "substitute": "김웅수", "workDetails": "남산공영 (속초)", "companion": "박승환조직부장, 정윤기 조직차장", "note": "" },
     { "id": "rec-20261014-bonbu-pss", "date": "2026-10-14", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "남산", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" },
     { "id": "rec-20261015-bonbu-pss", "date": "2026-10-15", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "백산", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" },
     { "id": "rec-20261016-bonbu-pss", "date": "2026-10-16", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "국영", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" }
