@@ -88,12 +88,11 @@
     { "id": "rec-20261014-bonbu-jyk", "date": "2026-10-14", "branch": "본부", "position": "조직차장", "requester": "정윤기", "substitute": "도형래", "workDetails": "속초 방문", "companion": "박승환조직부장, 홍대훈 조직차장", "note": "" },
     { "id": "rec-20261014-bonbu-hdh", "date": "2026-10-14", "branch": "본부", "position": "조직차장", "requester": "홍대훈", "substitute": "김웅수", "workDetails": "남산공영 (속초)", "companion": "박승환조직부장, 정윤기 조직차장", "note": "" },
     { "id": "rec-20261014-bonbu-pss", "date": "2026-10-14", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "남산", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" },
-    { "id": "rec-20261014-bonbu-lws", "date": "2026-10-14", "branch": "본부", "position": "조직부장", "requester": "이우성", "substitute": "이경재", "workDetails": "한국타워 미팅", "companion": "", "note": "" },
     { "id": "rec-20261015-bonbu-pss", "date": "2026-10-15", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "백산", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" },
     { "id": "rec-20261015-bonbu-hcy", "date": "2026-10-15", "branch": "본부", "position": "지부장", "requester": "황창연", "substitute": "박정환", "workDetails": "병점태왕현장, 서영플러스현장, 양산동 헤리티지자이, 오산소형현장 등 관내활동 및 미팅", "companion": "김철", "note": "" },
-    { "id": "rec-20261015-bonbu-lws", "date": "2026-10-15", "branch": "본부", "position": "조직부장", "requester": "이우성", "substitute": "이경재", "workDetails": "국영타워 미팅", "companion": "", "note": "" },
+    { "id": "rec-20261015-bonbu-lws", "date": "2026-10-15", "branch": "본부", "position": "조직부장", "requester": "이우성", "substitute": "이경재", "workDetails": "한국타워 미팅", "companion": "", "note": "" },
     { "id": "rec-20261015-bonjo-mmg", "date": "2026-10-15", "branch": "본조", "position": "부본부장", "requester": "문민곤", "substitute": "성경민", "workDetails": "김길진조합원 변호사면담 자문차 동반외 본부사무업무", "companion": "김길진조합원", "note": "8월 노무사 미팅 분" },
-    { "id": "rec-20261016-bonbu-pss", "date": "2026-10-16", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "국영", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" }
+    { "id": "rec-20261016-bonbu-pss", "date": "2026-10-16", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "국영", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" },
+    { "id": "rec-20261016-bonbu-lws", "date": "2026-10-16", "branch": "본부", "position": "조직부장", "requester": "이우성", "substitute": "이경재", "workDetails": "국영타워 미팅", "companion": "", "note": "" }
   ]
 }
-
