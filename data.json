@@ -94,6 +94,9 @@
     { "id": "rec-20261015-bonjo-mmg", "date": "2026-10-15", "branch": "본조", "position": "부본부장", "requester": "문민곤", "substitute": "성경민", "workDetails": "김길진조합원 변호사면담 자문차 동반외 본부사무업무", "companion": "김길진조합원", "note": "8월 노무사 미팅 분" },
     { "id": "rec-20261016-bonbu-pss", "date": "2026-10-16", "branch": "본부", "position": "조직부장", "requester": "박승환", "substitute": "조진명", "workDetails": "국영", "companion": "이우성 조직부장 및 김우선남부지부장", "note": "" },
     { "id": "rec-20261016-bonbu-lws", "date": "2026-10-16", "branch": "본부", "position": "조직부장", "requester": "이우성", "substitute": "이경재", "workDetails": "국영타워 미팅", "companion": "", "note": "" },
-    { "id": "rec-20261016-bonbu-cyh", "date": "2026-10-16", "branch": "본부", "position": "지부장", "requester": "최양호", "substitute": "이상건", "workDetails": "국영타워미팅", "companion": "김우선, 박승환, 이우성", "note": "" }
+    { "id": "rec-20261016-bonbu-cyh", "date": "2026-10-16", "branch": "본부", "position": "지부장", "requester": "최양호", "substitute": "이상건", "workDetails": "국영타워미팅", "companion": "김우선, 박승환, 이우성", "note": "" },
+    { "id": "rec-20261019-bonjo-phj", "date": "2026-10-19", "branch": "본조", "position": "사무국장", "requester": "박현진", "substitute": "서두석", "workDetails": "", "companion": "", "note": "" },
+    { "id": "rec-20261020-bonjo-phj", "date": "2026-10-20", "branch": "본조", "position": "사무국장", "requester": "박현진", "substitute": "서두석", "workDetails": "", "companion": "", "note": "" },
+    { "id": "rec-20261019-bonbu-mmg", "date": "2026-10-19", "branch": "본부", "position": "부본부장", "requester": "문민곤", "substitute": "성경민", "workDetails": "민노회의 외 방송장비 점검등", "companion": "본부장", "note": "" }
   ]
 }
